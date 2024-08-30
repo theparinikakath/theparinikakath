@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parinika Kath
 =====================================================================================================================================
 
-Full stack web developer
+MERN Stack developer
 ------------------------
 
-I am a full stack web developer with expertise in MERN Stack. I love making websites that are user friendly. I am a passionate and hardworking person who can bring a holistic approach to your projects.
+I am a MERN Stack developer. I love making websites that are user friendly. I am a passionate and hardworking person who can bring a holistic approach to your projects.
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [parinikakath@gmail.com](mailto:parinikakath@gmail.com)
