@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack developer
 ------------------------
 
-I am a MERN Stack developer. I love making websites that are user friendly. I am a passionate and hardworking person who can bring a unique approach to your projects.
+I love making websites that are user friendly. I am a CSE undergrad and a passionate and hardworking person who can bring a unique approach to your projects.
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [parinikakath@gmail.com](mailto:parinikakath@gmail.com)
