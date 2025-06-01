@@ -44,11 +44,12 @@ I love making websites that are user friendly. I am a CSE undergrad and a passio
   </a>
   <a href="https://leetcode.com/theparinikakath" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="32" height="32" alt="LeetCode" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="32" height="32" alt="LeetCode" />
   </picture>
 </a>
+
 <a href="https://auth.geeksforgeeks.org/user/theparinikakath/profile" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
