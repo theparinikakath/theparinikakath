@@ -21,7 +21,6 @@ I love making websites that are user friendly. I am a CSE undergrad and a passio
 ### Socials
 
 <p align="left"> 
-  
   <a href="http://www.instagram.com/theparinikakath" target="_blank" rel="noreferrer">
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
@@ -43,6 +42,21 @@ I love making websites that are user friendly. I am a CSE undergrad and a passio
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
+  <a href="https://leetcode.com/theparinikakath" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="32" height="32" alt="LeetCode" />
+  </picture>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/theparinikakath/profile" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="32" height="32" alt="GeeksforGeeks" />
+  </picture>
+</a>
+
 </p>
 
 
