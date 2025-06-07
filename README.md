@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parinika Kath
 =====================================================================================================================================
 
-MERN Stack developer
+I am a MERN Stack developer
 ------------------------
 
 I love making websites that are user friendly. I am a CSE undergrad and a passionate and hardworking person who can bring a unique approach to your projects.
