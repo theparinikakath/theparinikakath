@@ -8,9 +8,8 @@ I love making websites that are user friendly. I am a CSE undergrad and a passio
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [parinikakath@gmail.com](mailto:parinikakath@gmail.com)
-* 🧠  I'm learning DSA and AI/ML
-* 🤝  I'm open to collaborating on Building user-friendly websites
-* ⚡  I'm open for internships
+* 🧠  I'm currently learning DSA and AI/ML
+* 🤝  I'm open to collaborating on building user-friendly solutions to real-world problems
 
 ### Skills
 
